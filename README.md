@@ -116,5 +116,4 @@ The Iris dataset contains:
 
 ---
 
-Would you also like me to give a slightly shorter version if you want to keep it **really clean and simple**? 🚀
 https://github.com/user-attachments/files/19922606/WhatsApp.Unknown.2025-04-26.at.18.53.30.zip
